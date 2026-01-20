@@ -69,8 +69,7 @@ The cleaned dataset was loaded into a MySQL database to answer key business ques
 
 ## Power BI Dashboard
 ### Dashboard Preview
-![Customer Behavior Dashboard](<img width="892" height="496" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/0ba2afdd-964f-429f-bba4-655db0626aab" />
-)
+<img width="892" height="496" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/0ba2afdd-964f-429f-bba4-655db0626aab" />
 
 An interactive **Power BI dashboard** was created to visualize insights clearly and effectively.
 
